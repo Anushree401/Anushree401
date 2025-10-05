@@ -1,11 +1,11 @@
 # 👋 Hi, I'm **Anushree Balaji**
 
-> Passionate about **unlocking insights from data** through advanced analytics and machine learning — always with a **cybersecurity** mindset.  
-> I love building **innovative, intelligent systems** that merge analytics, automation, and defense.
+> Passionate about **unlocking insights from data** through advanced analytics and machine learning, always with a **cybersecurity** lens.  
+> I love building **innovative, intelligent systems** that merge analytics and defense.
 
 ---
 
-### 🧠 **Core Domains**
+### 🧠 **My Tech Stack**
 **Data Science | Machine Learning | Cybersecurity**
 
 | Domain | Expertise |
@@ -25,7 +25,7 @@ Developed during the **Google Agentic AI Hackathon**, this AI-powered platform h
 Interactive Python/Plotly dashboard fetching **live API data** for real-time market analytics — featuring **trend forecasting** and **anomaly detection**.
 
 #### 🌐 **nScanner – Online Network Scanning Tool**
-A hybrid **passive + active network scanner** built in Python that identifies open ports, misconfigurations, and potential vulnerabilities.
+A hybrid **passive + active network scanner** built in Python that identifies open ports, misconfigurations, and potential vulnerabilities. 
 
 #### 💳 **Explainable AI Credit Scoring**
 Ongoing research project on **interpretable financial risk models**, combining transparency with predictive analytics.
