@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Anushree Balaji**
+# 👋 Hi, I'm **Anushree Balaji :)**
 
 > Passionate about **unlocking insights from data** through advanced analytics and machine learning, always with a **cybersecurity** lens.  
 > I love building **innovative, intelligent systems** that merge analytics and defense.
