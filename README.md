@@ -51,139 +51,247 @@
 
 ---
 
-## 🚀 Highlighted Projects (Interactive + Visual)
+## 🚀 Highlighted Projects 
 
-### **Sahayak – AI Teaching Assistant**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/AI-Agentic%20AI-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hackathon-Google-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
-</p>
+### 🧩 <a href="https://github.com/ak-kk-21/Saarthi-Student-Career-Guidance" target="_blank">Sahayak – AI Teaching Assistant</a>
 
-AI-powered assistant helping teachers plan lessons, generate visual aids, and support low-resource classrooms.
+<sub><i>Google Agentic AI Hackathon</i></sub>
 
 ---
 
-### **Market Trends Dashboard**
+🎓 Helps teachers plan structured lessons
+🎨 Generates visual teaching aids
+🌱 Designed for low-resource classrooms
 
-<p>
-  <img src="https://img.shields.io/badge/Data-Live%20APIs-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Charts-Plotly-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ML-Forecasting-yellow?style=for-the-badge"/>
-</p>
+**Impact:**
+AI that actually understands classroom constraints and adapts intelligently.
 
-Real-time market analytics dashboard with forecasting & anomaly detection.
+🔗 <a href="https://github.com/ak-kk-21/Saarthi-Student-Career-Guidance" target="_blank"><b>View Repository</b></a>
 
----
+</td>
 
-### **nScanner – Network Scanning Tool**
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/Security-Network%20Recon-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scanner-Passive%20%2B%20Active-critical?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-Automation-blue?style=for-the-badge"/>
-</p>
+### 📊 <a href="https://github.com/Anushree401/market-dashboard" target="_blank">Market Trends Dashboard</a>
 
-Hybrid scanner for open ports, misconfigurations, and vulnerability discovery.
+<sub><i>Live data • Real-time analytics</i></sub>
 
 ---
 
-### **Explainable AI Credit Scoring** *(Research)*
+📈 Fetches live market data via APIs
+🔮 Forecasts trends using ML models
+🚨 Detects anomalies & sudden shifts
 
-<p>
-  <img src="https://img.shields.io/badge/XAI-Interpretability-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Finance-Risk%20Modeling-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Ongoing-informational?style=for-the-badge"/>
-</p>
+**Impact:**
+A Bloomberg-style analytics view built entirely in Python.
 
-📊 Transparent, explainable credit risk models focused on trust & fairness.
+🔗 <a href="https://github.com/Anushree401/market-dashboard" target="_blank"><b>View Repository</b></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 <a href="https://github.com/Anushree401/nScanner" target="_blank">nScanner – Network Scanning Tool</a>
+
+<sub><i>Passive + Active Recon</i></sub>
+
+---
+
+🔍 Identifies open ports
+⚠️ Flags misconfigurations
+🧠 Hybrid scanning approach
+
+**Impact:**
+Automates early-stage security reconnaissance for defenders.
+
+🔗 <a href="https://github.com/Anushree401/nScanner" target="_blank"><b>View Repository</b></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💳 <a href="https://medium.com/@anushree1606balaji/xcredit-explainable-credit-scorer-5a01b2159bf8" target="_blank">Explainable AI Credit Scoring</a>
+
+<sub><i>Research Project</i></sub>
+
+---
+
+📊 Predicts credit risk
+🧩 Explains model decisions
+⚖️ Focus on fairness & transparency
+
+**Impact:**
+Financial ML models that can justify their decisions.
+
+🔗 <a href="https://medium.com/@anushree1606balaji/xcredit-explainable-credit-scorer-5a01b2159bf8" target="_blank"><b>Read Article</b></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Experience & Leadership
 
-### **Auracle Labs** — Software / AI Intern *(Ongoing)*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Domain-AI%20%26%20Software-purple?style=for-the-badge"/>
-</p>
+### 🧪 Auracle Labs
 
-Building and experimenting with **real-world AI & software systems**, bridging research and production.
-
----
-
-### **CSI CSDF** — Cybersecurity Intern *(Ongoing)*
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Domain-Cybersecurity-red?style=for-the-badge"/>
-</p>
-
-Working on **security analysis and defensive strategies** with development.
+**Software / AI Intern** *(Ongoing)*
 
 ---
 
-### **WhizHack** — Cybersecurity Intern
+🤖 Working on **real-world AI & software systems**
+🔬 Bridging **research ideas** with **production-ready code**
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Vulnerability%20Analysis-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data-Security%20Datasets-blue?style=for-the-badge"/>
-</p>
+**Focus:**
+Applied AI • System integration • Experimentation pipelines
 
-Performed **vulnerability analysis** using structured security datasets to identify patterns and risks.
+</td>
 
----
+<td width="50%" valign="top">
 
-### **1Stop.ai (Threat Prism)** — Threat Simulation Intern
+### 🛡️ CSI CSDF
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Attack%20Simulation-critical?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tools-Python%20Analyzers-yellow?style=for-the-badge"/>
-</p>
-
-Simulated **real-world attack patterns** and built **Python-based analysis tools** to study threat behavior.
+**Cybersecurity Intern** *(Ongoing)*
 
 ---
 
-### **IEEE Research Committee** — Subhead (R&D) *(Ongoing)*
+🔐 Hands-on **security analysis & defensive development**
+⚙️ Combining cybersecurity practices with tooling
 
-<p>
-  <img src="https://img.shields.io/badge/Role-Research%20Leadership-purple?style=for-the-badge"/>
-</p>
+**Focus:**
+Security assessment • Secure systems • Threat mitigation
 
-Leading research initiatives, mentoring teams, and contributing to **technical publications & innovation**.
-
----
-
-### **MBATech Connect Cell** — Finance Executive *(Ongoing)*
-
-<p>
-  <img src="https://img.shields.io/badge/Role-Finance%20%26%20Ops-green?style=for-the-badge"/>
-</p>
-
-Managing **financial planning, budgeting, and operations** for cross-disciplinary initiatives.
+</td>
+</tr>
+</table>
 
 ---
 
-### **IEC Committee** — Technical Executive *(Aug 2024 – May 2025)*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/Role-Technical%20Execution-blue?style=for-the-badge"/>
-</p>
+### 🔍 WhizHack
 
-Handled **technical planning and execution** for events and initiatives.
+**Cybersecurity Intern**
 
 ---
 
-### **4C Marketing Club** — Editorial Executive *(Aug 2024 – Apr 2025)*
+📊 Analyzed **security datasets**
+⚠️ Identified vulnerability patterns & risks
 
-<p>
-  <img src="https://img.shields.io/badge/Role-Content%20%26%20Editorial-pink?style=for-the-badge"/>
-</p>
+**Focus:**
+Vulnerability analysis • Data-driven security insights
 
-Created and curated **technical & marketing content** for outreach and branding.
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 1Stop.ai (Threat Prism)
+
+**Threat Simulation Intern**
+
+---
+
+⚔️ Simulated **real-world attack scenarios**
+🐍 Built **Python-based threat analyzers**
+
+**Focus:**
+Attack modeling • Threat behavior analysis • Automation
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 IEEE Research Committee
+
+**Subhead – R&D** *(Ongoing)*
+
+---
+
+📚 Leading **research initiatives & innovation efforts**
+👥 Mentoring teams & contributing to publications
+
+**Focus:**
+Technical research • Leadership • Knowledge dissemination
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💰 MBATech Connect Cell
+
+**Finance Executive** *(Ongoing)*
+
+---
+
+📊 Managing **financial planning & budgeting**
+🤝 Supporting cross-disciplinary initiatives
+
+**Focus:**
+Finance operations • Strategic planning
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ IEC Committee
+
+**Technical Executive** *(Aug 2024 – May 2025)*
+
+---
+
+🛠️ Led **technical planning & execution**
+📅 Supported event infrastructure & workflows
+
+**Focus:**
+Technical operations • Event systems
+
+</td>
+
+<td width="50%" valign="top">
+
+### ✍️ 4C Marketing Club
+
+**Editorial Executive** *(Aug 2024 – Apr 2025)*
+
+---
+
+📰 Created **technical & marketing content**
+📣 Strengthened outreach & branding
+
+**Focus:**
+Content strategy • Editorial leadership
+
+</td>
+</tr>
+</table>
 
 ---
 
