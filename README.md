@@ -16,28 +16,105 @@
 | 🛡️ **Cybersecurity** | ![Network Security](https://img.shields.io/badge/Network%20Security-006400?logo=protonvpn&logoColor=white) ![Penetration Testing](https://img.shields.io/badge/Pen%20Testing-1E90FF?logo=hackaday&logoColor=white) ![SQLi](https://img.shields.io/badge/SQLi-DC143C?logo=mysql&logoColor=white) ![Brute Force](https://img.shields.io/badge/Brute%20Force-8B0000?logo=shield&logoColor=white) ![Threat Simulation](https://img.shields.io/badge/Threat%20Simulation-483D8B?logo=python&logoColor=white) |
 | ⚙️ **Tools & Frameworks** | ![Nmap](https://img.shields.io/badge/Nmap-4682B4?logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F37626?logo=burpsuite&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-2E8B57?logo=gnuprivacyguard&logoColor=white) ![Nikto](https://img.shields.io/badge/Nikto-708090?logo=securityscorecard&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1E90FF?logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?logo=metasploit&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00457C?logo=owasp&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Bash Scripting](https://img.shields.io/badge/Bash-Scripts-informational) ![SED and AWK Scripts (Scripting)](https://img.shields.io/badge/Shell_Scripting-%23121011?style=flat&logo=gnu-bash&logoColor=white) |
 
-Image courtesy given by: ![Shields.IO](https://shields.io/badges)
+#### Currently learning:
+- NextJS
+- Typescript
+- React
+- Advanced shell scripting and automation using shell scripts
+- Advanced defensive concepts
+- Low-level languages and assembly for malware analysis
+- Also working on CTF skills so that I can get into bug bounty programs
+
+Badges courtesy given by: ![Shields.IO](https://shields.io/badges)
 
 ---
 
-### 🚀 **Highlighted Projects**
+## 📊 GitHub Stats (LIVE)
 
-#### 🧩 **Sahayak – AI Teaching Assistant**
-Developed during the **Google Agentic AI Hackathon**, this AI-powered platform helps teachers plan lessons, generate visual aids, and assist classrooms with limited resources.
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushree401&show_icons=true&theme=radical)
+```
 
-#### 📊 **Market Trends Dashboard**
-Interactive Python/Plotly dashboard fetching **live API data** for real-time market analytics — featuring **trend forecasting** and **anomaly detection**.
+---
 
-#### 🌐 **nScanner – Online Network Scanning Tool**
-A hybrid **passive + active network scanner** built in Python that identifies open ports, misconfigurations, and potential vulnerabilities. 
+## 🧠 Most Used Languages (Animated Bar)
 
-#### 💳 **Explainable AI Credit Scoring**
-Ongoing research project on **interpretable financial risk models**, combining transparency with predictive analytics.
+```md
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree401&layout=compact&theme=radical)
+```
+
+---
+
+## 📈 Contribution Activity Graph (Very Eye-Catching)
+
+```md
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anushree401&theme=react-dark)
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+```md
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Anushree401&theme=dracula&no-frame=true)
+```
+
+---
+
+## 🚀 Highlighted Projects (Interactive + Visual)
+
+### 🧩 **Sahayak – AI Teaching Assistant**
+
+<p>
+  <img src="https://img.shields.io/badge/AI-Agentic%20AI-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hackathon-Google-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+</p>
+
+🧠 AI-powered assistant helping teachers plan lessons, generate visual aids, and support low-resource classrooms.
+
+---
+
+### 📊 **Market Trends Dashboard**
+
+<p>
+  <img src="https://img.shields.io/badge/Data-Live%20APIs-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Charts-Plotly-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ML-Forecasting-yellow?style=for-the-badge"/>
+</p>
+
+📈 Real-time market analytics dashboard with forecasting & anomaly detection.
+
+---
+
+### 🌐 **nScanner – Network Scanning Tool**
+
+<p>
+  <img src="https://img.shields.io/badge/Security-Network%20Recon-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scanner-Passive%20%2B%20Active-critical?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-Automation-blue?style=for-the-badge"/>
+</p>
+
+🔍 Hybrid scanner for open ports, misconfigurations, and vulnerability discovery.
+
+---
+
+### 💳 **Explainable AI Credit Scoring** *(Research)*
+
+<p>
+  <img src="https://img.shields.io/badge/XAI-Interpretability-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Finance-Risk%20Modeling-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Ongoing-informational?style=for-the-badge"/>
+</p>
+
+📊 Transparent, explainable credit risk models focused on trust & fairness.
 
 ---
 
 ### 🧑‍💻 **Experience & Roles**
 
+- **Auracle Labs** — Software / AI Intern *(Ongoing)*
+- **CSI CSDF** — Cybersecurity Intern *(Ongoing)*
 - **Cybersecurity Intern**, WhizHack – Performed vulnerability analysis using security datasets.  
 - **Threat Simulation Intern**, 1Stop.ai (Threat Prism) – Simulated attack patterns and built Python-based analyzers.  
 - **Subhead – R&D**, IEEE Research Committee (Ongoing)  
