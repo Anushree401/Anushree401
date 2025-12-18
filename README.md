@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 **My Tech Stack**
+## 🧠 **My Tech Stack**
 **Data Science | Machine Learning | Cybersecurity**
 | Domain | Expertise |
 | :-- | :-- |
@@ -55,7 +55,7 @@ Badges courtesy given by: ![Shields.IO](https://shields.io/badges)
 
 ## 🚀 Highlighted Projects (Interactive + Visual)
 
-### 🧩 **Sahayak – AI Teaching Assistant**
+### **Sahayak – AI Teaching Assistant**
 
 <p>
   <img src="https://img.shields.io/badge/AI-Agentic%20AI-purple?style=for-the-badge"/>
@@ -63,11 +63,11 @@ Badges courtesy given by: ![Shields.IO](https://shields.io/badges)
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 </p>
 
-🧠 AI-powered assistant helping teachers plan lessons, generate visual aids, and support low-resource classrooms.
+AI-powered assistant helping teachers plan lessons, generate visual aids, and support low-resource classrooms.
 
 ---
 
-### 📊 **Market Trends Dashboard**
+### **Market Trends Dashboard**
 
 <p>
   <img src="https://img.shields.io/badge/Data-Live%20APIs-orange?style=for-the-badge"/>
@@ -75,11 +75,11 @@ Badges courtesy given by: ![Shields.IO](https://shields.io/badges)
   <img src="https://img.shields.io/badge/ML-Forecasting-yellow?style=for-the-badge"/>
 </p>
 
-📈 Real-time market analytics dashboard with forecasting & anomaly detection.
+Real-time market analytics dashboard with forecasting & anomaly detection.
 
 ---
 
-### 🌐 **nScanner – Network Scanning Tool**
+### **nScanner – Network Scanning Tool**
 
 <p>
   <img src="https://img.shields.io/badge/Security-Network%20Recon-red?style=for-the-badge"/>
@@ -87,11 +87,11 @@ Badges courtesy given by: ![Shields.IO](https://shields.io/badges)
   <img src="https://img.shields.io/badge/Python-Automation-blue?style=for-the-badge"/>
 </p>
 
-🔍 Hybrid scanner for open ports, misconfigurations, and vulnerability discovery.
+Hybrid scanner for open ports, misconfigurations, and vulnerability discovery.
 
 ---
 
-### 💳 **Explainable AI Credit Scoring** *(Research)*
+### **Explainable AI Credit Scoring** *(Research)*
 
 <p>
   <img src="https://img.shields.io/badge/XAI-Interpretability-purple?style=for-the-badge"/>
@@ -103,16 +103,89 @@ Badges courtesy given by: ![Shields.IO](https://shields.io/badges)
 
 ---
 
-### 🧑‍💻 **Experience & Roles**
+## 💼 Experience & Leadership (Fun Version)
 
-- **Auracle Labs** — Software / AI Intern *(Ongoing)*
-- **CSI CSDF** — Cybersecurity Intern *(Ongoing)*
-- **Cybersecurity Intern**, WhizHack – Performed vulnerability analysis using security datasets.  
-- **Threat Simulation Intern**, 1Stop.ai (Threat Prism) – Simulated attack patterns and built Python-based analyzers.  
-- **Subhead – R&D**, IEEE Research Committee (Ongoing)  
-- **Finance Executive**, MBATech Connect Cell (Ongoing)  
-- **Technical Executive**, IEC Committee (Aug 2024 – May 2025)  
-- **Editorial Executive**, 4C Marketing Club (Aug 2024 – Apr 2025)
+### **Auracle Labs** — Software / AI Intern *(Ongoing)*
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Domain-AI%20%26%20Software-purple?style=for-the-badge"/>
+</p>
+
+Building and experimenting with **real-world AI & software systems**, bridging research and production.
+
+---
+
+### **CSI CSDF** — Cybersecurity Intern *(Ongoing)*
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Domain-Cybersecurity-red?style=for-the-badge"/>
+</p>
+
+Working on **security analysis and defensive strategies** with development.
+
+---
+
+### **WhizHack** — Cybersecurity Intern
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Vulnerability%20Analysis-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data-Security%20Datasets-blue?style=for-the-badge"/>
+</p>
+
+Performed **vulnerability analysis** using structured security datasets to identify patterns and risks.
+
+---
+
+### **1Stop.ai (Threat Prism)** — Threat Simulation Intern
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Attack%20Simulation-critical?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tools-Python%20Analyzers-yellow?style=for-the-badge"/>
+</p>
+
+Simulated **real-world attack patterns** and built **Python-based analysis tools** to study threat behavior.
+
+---
+
+### **IEEE Research Committee** — Subhead (R&D) *(Ongoing)*
+
+<p>
+  <img src="https://img.shields.io/badge/Role-Research%20Leadership-purple?style=for-the-badge"/>
+</p>
+
+Leading research initiatives, mentoring teams, and contributing to **technical publications & innovation**.
+
+---
+
+### **MBATech Connect Cell** — Finance Executive *(Ongoing)*
+
+<p>
+  <img src="https://img.shields.io/badge/Role-Finance%20%26%20Ops-green?style=for-the-badge"/>
+</p>
+
+Managing **financial planning, budgeting, and operations** for cross-disciplinary initiatives.
+
+---
+
+### **IEC Committee** — Technical Executive *(Aug 2024 – May 2025)*
+
+<p>
+  <img src="https://img.shields.io/badge/Role-Technical%20Execution-blue?style=for-the-badge"/>
+</p>
+
+Handled **technical planning and execution** for events and initiatives.
+
+---
+
+### **4C Marketing Club** — Editorial Executive *(Aug 2024 – Apr 2025)*
+
+<p>
+  <img src="https://img.shields.io/badge/Role-Content%20%26%20Editorial-pink?style=for-the-badge"/>
+</p>
+
+Created and curated **technical & marketing content** for outreach and branding.
 
 ---
 
