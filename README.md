@@ -31,33 +31,25 @@ Badges courtesy given by: ![Shields.IO](https://shields.io/badges)
 
 ## 📊 GitHub Stats (LIVE)
 
-```md
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushree401&show_icons=true&theme=radical)
-```
 
 ---
 
 ## 🧠 Most Used Languages (Animated Bar)
 
-```md
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree401&layout=compact&theme=radical)
-```
 
 ---
 
 ## 📈 Contribution Activity Graph (Very Eye-Catching)
 
-```md
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anushree401&theme=react-dark)
-```
 
 ---
 
 ## 🏆 GitHub Trophies
 
-```md
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Anushree401&theme=dracula&no-frame=true)
-```
 
 ---
 
