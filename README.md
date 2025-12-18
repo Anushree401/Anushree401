@@ -25,8 +25,6 @@
 - Low-level languages and assembly for malware analysis
 - Also working on CTF skills so that I can get into bug bounty programs
 
-Badges courtesy given by: ![Shields.IO](https://shields.io/badges)
-
 ---
 
 ## 📊 GitHub Stats
@@ -200,12 +198,11 @@ Created and curated **technical & marketing content** for outreach and branding.
 
 ### 🌐 **Connect With Me**
 
-| Platform | Link |
-| :-- | :-- |
-| 📬 **Email** | [anushree1606balaji@gmail.com](mailto:anushree1606balaji@gmail.com) |
-| 💻 **GitHub** | [github.com/Anushree401](https://github.com/Anushree401) |
-| 💼 **LinkedIn** | [linkedin.com/in/anushree-balaji](https://www.linkedin.com/in/anushree-balaji-a71b9a255) |
+<p align="center"> <a href="mailto:anushree1606balaji@gmail.com"> <img src="https://img.shields.io/badge/Email-anushree1606balaji%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Anushree401"> <img src="https://img.shields.io/badge/GitHub-Anushree401-black?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/anushree-balaji-a71b9a255"> <img src="https://img.shields.io/badge/LinkedIn-Anushree%20Balaji-blue?style=for-the-badge&logo=linkedin"/> </a> </p>
 
 ---
 
 💡 *“Blending data, intelligence, and security to make tech more transparent, ethical, and insightful.”*
+
+---
+**Badges courtesy given by: ![Shields.IO](https://shields.io/badges)**
