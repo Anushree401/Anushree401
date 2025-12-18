@@ -103,7 +103,7 @@ Hybrid scanner for open ports, misconfigurations, and vulnerability discovery.
 
 ---
 
-## 💼 Experience & Leadership (Fun Version)
+## 💼 Experience & Leadership
 
 ### **Auracle Labs** — Software / AI Intern *(Ongoing)*
 
