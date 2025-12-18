@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Anushree Balaji :)**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1200&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Anushree+Balaji+%3A%29;AI+%7C+Cybersecurity+%7C+Full+Stack;Always+Building%2C+Always+Learning)
 
 > Passionate about **unlocking insights from data** through advanced analytics and machine learning, always with a **cybersecurity** lens.  
 > I love building **innovative, intelligent systems** that merge analytics and defense.
@@ -29,19 +29,19 @@ Badges courtesy given by: ![Shields.IO](https://shields.io/badges)
 
 ---
 
-## 📊 GitHub Stats (LIVE)
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushree401&show_icons=true&theme=radical)
 
 ---
 
-## 🧠 Most Used Languages (Animated Bar)
+## 🧠 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree401&layout=compact&theme=radical)
 
 ---
 
-## 📈 Contribution Activity Graph (Very Eye-Catching)
+## 📈 Contribution Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anushree401&theme=react-dark)
 
