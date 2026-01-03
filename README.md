@@ -149,7 +149,7 @@ Financial ML models that can justify their decisions.
 
 ### 🧪 Auracle Labs
 
-**Software / AI Intern** *(Ongoing)*
+**Techincal Developer Intern** *(Ongoing)*
 
 ---
 
@@ -165,15 +165,15 @@ Applied AI • System integration • Experimentation pipelines
 
 ### 🛡️ CSI CSDF
 
-**Cybersecurity Intern** *(Ongoing)*
+**Backend Developer Intern** *(Ongoing)*
 
 ---
 
-🔐 Hands-on **security analysis & defensive development**
+🔐 Hands-on **Secure development**
 ⚙️ Combining cybersecurity practices with tooling
 
 **Focus:**
-Security assessment • Secure systems • Threat mitigation
+Creating secure backend • Secure systems • Threat mitigation
 
 </td>
 </tr>
@@ -277,6 +277,22 @@ Technical operations • Event systems
 
 <td width="50%" valign="top">
 
+### ⚙️ Taqneeq
+
+**Technical Executive** *(May 2025-Current)*
+
+---
+
+🛠️ Building **backend system for college-level application**
+📅 Supported event infrastructure & contributed to development of application for college-level event
+
+**Focus:**
+Backend development • Event support
+
+</td>
+
+<td width="50%" valign="top">
+
 ### ✍️ 4C Marketing Club
 
 **Editorial Executive** *(Aug 2024 – Apr 2025)*
@@ -299,8 +315,7 @@ Content strategy • Editorial leadership
 
 - 🥇 **Finalist:** Google Agentic AI Hackathon  
 - 🥈 **Finalist:** Cyber Cypher (Taqneeq), IEEE TechSafar  
-- 🎓 **Certified:** IIT Madras Foundation in Programming & Data Science  
-- 📈 **CGPA:** 8.92 – MBATech Computer Engineering, NMIMS MPSTME  
+- 🎓 **Certified:** IIT Madras Foundation in Programming & Data Science
 
 ---
 
