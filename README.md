@@ -221,7 +221,23 @@ Attack modeling • Threat behavior analysis • Automation
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### ⚙️ Taqneeq
+
+**Technical Executive** *(May 2025-Current)*
+
+---
+
+🛠️ Building **backend system for college-level application**
+📅 Supported event infrastructure & contributed to development of application for college-level event
+
+**Focus:**
+Backend development • Event support
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 🧠 IEEE Research Committee
 
@@ -237,7 +253,7 @@ Technical research • Leadership • Knowledge dissemination
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 💰 MBATech Connect Cell
 
@@ -272,22 +288,6 @@ Finance operations • Strategic planning
 
 **Focus:**
 Technical operations • Event systems
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Taqneeq
-
-**Technical Executive** *(May 2025-Current)*
-
----
-
-🛠️ Building **backend system for college-level application**
-📅 Supported event infrastructure & contributed to development of application for college-level event
-
-**Focus:**
-Backend development • Event support
 
 </td>
 
