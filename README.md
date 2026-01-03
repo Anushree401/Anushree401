@@ -225,7 +225,7 @@ Attack modeling • Threat behavior analysis • Automation
 
 ### ⚙️ Taqneeq
 
-**Technical Executive** *(May 2025-Current)*
+**Technical Executive** *(Ongoing)*
 
 ---
 
