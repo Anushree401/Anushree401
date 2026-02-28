@@ -47,7 +47,7 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies]([https://github-profile-trophy.vercel.app/?username=Anushree401&theme=dracula&no-frame=true](https://gh-trophy.cdnsoft.net/?username=Anushree401&theme=dark_dimmed))
+![GitHub Trophies](https://gh-trophy.cdnsoft.net/?username=Anushree401&theme=dark_dimmed)
 
 ---
 
