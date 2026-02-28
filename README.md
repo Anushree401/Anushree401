@@ -221,7 +221,24 @@ Attack modeling • Threat behavior analysis • Automation
 
 <table>
 <tr>
-<td width="33%" valign="top">
+
+<td width="25%" valign="top">
+
+### 👥CyphersNova Community
+
+**Admin team and co-founder** *(Ongoing)*
+
+---
+
+💻 Developing **business level projects**
+⚙️ Conducting **events** and **speaker sessions**
+
+**Focus:**
+Creating unique projects • Technology • Events and speaker sessions from experts
+
+</td>
+
+<td width="25%" valign="top">
 
 ### ⚙️ Taqneeq
 
@@ -237,11 +254,11 @@ Backend development • Event support
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 🧠 IEEE Research Committee
 
-**Subhead – R&D** *(Ongoing)*
+**Subhead – R&D**
 
 ---
 
@@ -253,7 +270,7 @@ Technical research • Leadership • Knowledge dissemination
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 💰 MBATech Connect Cell
 
