@@ -174,4 +174,10 @@ Financial ML models that can justify their decisions.
 
 ---
 
-**Badges courtesy given by: ![Shields.IO](https://shields.io/badges)**
+### Credits
+
+- Badges: https://shields.io  
+- GitHub Stats: https://github.com/anuraghazra/github-readme-stats  
+- Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph  
+- Trophies: https://github.com/ryo-ma/github-profile-trophy  
+- Typing SVG: https://github.com/DenverCoder1/readme-typing-svg  
