@@ -152,7 +152,189 @@ Financial ML models that can justify their decisions.
 
 ## Experience & Leadership
 
-[rest remains unchanged structurally, with emojis removed exactly as above pattern]
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Auracle Labs
+
+**Technical Developer Intern** *(Ongoing)*
+
+---
+
+Working on real-world AI and software systems
+Bridging research ideas with production-ready implementations
+
+**Focus:**
+Applied AI • System Integration • Experimentation Pipelines
+
+</td>
+
+<td width="50%" valign="top">
+
+### CSI CSDF
+
+**Backend Developer Intern** *(Ongoing)*
+
+---
+
+Hands-on secure development practices
+Building tools with integrated cybersecurity principles
+
+**Focus:**
+Secure Backend Development • System Security • Threat Mitigation
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### WhizHack
+
+**Cybersecurity Intern**
+
+---
+
+Analyzed security datasets
+Identified vulnerability patterns and risk indicators
+
+**Focus:**
+Vulnerability Analysis • Security Data Insights
+
+</td>
+
+<td width="50%" valign="top">
+
+### 1Stop.ai (Threat Prism)
+
+**Threat Simulation Intern**
+
+---
+
+Simulated real-world attack scenarios
+Developed Python-based threat analysis tools
+
+**Focus:**
+Attack Modeling • Threat Behavior Analysis • Automation
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="25%" valign="top">
+
+### CyphersNova Community
+
+**Co-founder & Admin** *(Ongoing)*
+
+---
+
+Building production-level projects
+Organizing events and speaker sessions
+
+**Focus:**
+Project Development • Community Building • Technical Leadership
+
+</td>
+
+<td width="25%" valign="top">
+
+### Taqneeq
+
+**Technical Executive** *(Ongoing)*
+
+---
+
+Developing backend systems for college-level applications
+Supporting technical infrastructure for events
+
+**Focus:**
+Backend Development • Event Systems
+
+</td>
+
+<td width="25%" valign="top">
+
+### IEEE Research Committee
+
+**Subhead – R&D**
+
+---
+
+Leading research initiatives
+Mentoring teams and contributing to technical work
+
+**Focus:**
+Research Leadership • Innovation • Mentorship
+
+</td>
+
+<td width="25%" valign="top">
+
+### MBATech Connect Cell
+
+**Finance Executive** *(Ongoing)*
+
+---
+
+Managing budgeting and financial planning
+Supporting cross-functional initiatives
+
+**Focus:**
+Finance Operations • Strategic Planning
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### IEC Committee
+
+**Technical Executive** *(Aug 2024 – May 2025)*
+
+---
+
+Led technical planning and execution
+Supported infrastructure and workflows for events
+
+**Focus:**
+Technical Operations • Event Systems
+
+</td>
+
+<td width="50%" valign="top">
+
+### 4C Marketing Club
+
+**Editorial Executive** *(Aug 2024 – Apr 2025)*
+
+---
+
+Created technical and marketing content
+Contributed to outreach and branding
+
+**Focus:**
+Content Strategy • Editorial Work
+
+</td>
+</tr>
+</table>
 
 ---
 
