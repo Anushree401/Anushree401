@@ -8,6 +8,10 @@ on:
     branches:
     - main
 
+# This block forces GitHub to give the bot write permissions
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
