@@ -54,7 +54,7 @@ Here is your content with all emojis removed, everything else kept exactly the s
 
 ## Contribution Snake
 
-![GitHub Contribution Snake](https://githubusercontent.com)
+![Snake animation](https://raw.githubusercontent.com/Anushree401/Anushree401/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
