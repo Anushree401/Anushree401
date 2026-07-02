@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=28\&duration=2800\&pause=1200\&color=F75C7E\&center=true\&vCenter=true\&width=900\&lines=Hi%2C+I'm+Anushree+Balaji+%3A%29;AI+%7C+Cybersecurity+%7C+Full+Stack;Always+Building%2C+Always+Learning)
 
-# VISIT MY [PROFILE](anushree.is-a.dev)!
+# VISIT MY [PROFILE](https://anushree.is-a.dev)!
 
 > Passionate about **unlocking insights from data** through advanced analytics and machine learning, always with a **cybersecurity** lens.
 > I love building **innovative, intelligent systems** that merge analytics and defense.
